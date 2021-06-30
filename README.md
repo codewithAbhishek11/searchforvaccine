@@ -1,11 +1,11 @@
 # searchforvaccine
 
-### Real Time data about vaccination centers.
+###  1. Real Time data about vaccination centers
 
-### Data fetched through XMLHTTPRequest.
+### 2. Data fetched through XMLHTTPRequest.
 
-### User friendly Search through city pincode.
+### 3. User friendly Search through city pincode.
 
-### Tools used:- HTML,CSS and Javascript.
+### 4. Tools used:- HTML,CSS and Javascript.
 
 ![SearchForVaccine](https://user-images.githubusercontent.com/80665434/123921448-a1f53e00-d9a4-11eb-896a-ef87776afa25.JPG)
